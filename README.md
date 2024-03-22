@@ -18,5 +18,3 @@ This is a project that retrieves a random secret from an API and displays it in 
 - Express.js
 - Axios
 - HTML/CSS
-
-
