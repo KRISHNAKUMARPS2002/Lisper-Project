@@ -4,7 +4,7 @@ This is a project that retrieves a random secret from an API and displays it in 
 
 ## Preview
 
-![Preview](images/preview.png)
+![Preview](public/images/preview.png)
 
 ## Usage
 
